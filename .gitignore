@@ -1,9 +1,11 @@
-echo "venv/" >> .gitignore
-echo "__pycache__/" >> .gitignore
-echo "*.pyc" >> .gitignore
-echo "*.pyo" >> .gitignore
-echo "*.pyd" >> .gitignore
-echo ".env" >> .gitignore
-echo ".DS_Store" >> .gitignore
-echo "*.wav" >> .gitignore
-echo "*.mp3" >> .gitignore
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
