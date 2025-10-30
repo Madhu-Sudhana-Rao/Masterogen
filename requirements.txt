@@ -10,4 +10,4 @@ spotipy
 numpy
 midi2audio
 soundfile
-librose
+librosa
